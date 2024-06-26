@@ -3,6 +3,10 @@
 ## Prerequistes
 
  llama-index
+ 
  openai
+ 
  pypdf
+ 
  python-dotenv
+ 
