@@ -1,4 +1,4 @@
-# Buliding-a-RAG-LLM (llamaindex)
+# Buliding-a-RAG-LLM (LlamaIndex)
 ## What is RAG?
 
 RAG stands for Retrieval Augmented Generation. 
