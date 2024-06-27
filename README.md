@@ -1,4 +1,4 @@
-# Buliding-a-RAG-LLM
+# Buliding-a-RAG-LLM (llamaindex)
 ## What is RAG?
 
 RAG stands for Retrieval Augmented Generation. 
@@ -33,6 +33,8 @@ RAG stands for Retrieval Augmented Generation.
      1. Configuration Management: Stores settings and parameters needed for initializing and running LLMs and embedding models.
      2. State Maintenance: Keeps track of the current state of services, such as model instances and embedding configurations.
      3. Contextual Consistency: Ensures that all components (e.g., LLM, embeddings) operate within a unified context, avoiding mismatches in configurations.
+    
+
 ## Prerequistes
 
  llama-index
